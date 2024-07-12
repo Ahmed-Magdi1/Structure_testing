@@ -1,2 +1,2 @@
-# This repository is about tasks 4
+# This repository is for tasks 4
 
